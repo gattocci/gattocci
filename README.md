@@ -8,7 +8,7 @@ Pregunta lo que quieras.<br><br>
 *Misc: El contexto portatil es la forma que, a parte de ser gratis, es la mejor de todas para hacer cosas con LLMs.*
 
 ## Socials & Projects:
-[![Studio](https://img.shields.io/badge/Studio-4285F4?logo=google-chrome&logoColor=white)](https://studio.nu-wave.xyz) [![Backrooms](https://img.shields.io/badge/Backrooms-4285F4?logo=google-chrome&logoColor=white)](https://backrooms.nu-wave.xyz) 
+[![NU WAVE Studio](https://img.shields.io/badge/Studio-4285F4?logo=google-chrome&logoColor=white)](https://studio.nu-wave.xyz) [![NU WAVE Backrooms](https://img.shields.io/badge/Backrooms-4285F4?logo=google-chrome&logoColor=white)](https://backrooms.nu-wave.xyz) 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/235160011091869696) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nuwavexyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NuWaveOfficial) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:studio@nu-wave.xyz) 
 
